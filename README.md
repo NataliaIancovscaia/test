@@ -467,3 +467,5 @@ nirut@LAPTOP-30KNAH0B MINGW64 /c/users/nirut
 $ cd test
 
 nirut@LAPTOP-30KNAH0B MINGW64 /c/users/nirut/test (main)
+
+cfhg
